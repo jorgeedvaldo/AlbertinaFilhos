@@ -1,0 +1,114 @@
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.exe.config
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.exe
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.pdb
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\MetroFramework.Design.dll
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\MetroFramework.dll
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Form1.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Properties.Resources.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.csproj.GenerateResource.Cache
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.exe
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.pdb
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Sobre.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Login.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadUtilizador.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadFuncionario.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadCliente.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadProduto.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadStock.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.AlterarPreco.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadVenda.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadEncomenda.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadInfoEncomenda.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Iniciar.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Facturacao.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\RdlCompile.cache
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\RdlCompile.compiled
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarVenda.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.FacturaEncomenda.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarProduto.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarUtilizador.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarCliente.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarFuncionario.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarEncomenda.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioVenda.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioEncomenda.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioProduto.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioCliente.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioFuncionario.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioUsuario.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.exe.config
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.exe
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.pdb
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\BDPastelaria.accdb
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.exe
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.pdb
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.csprojResolveAssemblyReference.cache
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.AlterarPreco.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadCliente.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadEncomenda.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadFuncionario.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadInfoEncomenda.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadProduto.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadStock.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadUtilizador.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadVenda.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarCliente.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarEncomenda.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarFuncionario.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarProduto.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarUtilizador.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarVenda.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Facturacao.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.FacturaEncomenda.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Form1.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Iniciar.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.LoadingForm.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Login.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Properties.Resources.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioCliente.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioEncomenda.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioFuncionario.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioProduto.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioUsuario.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioVenda.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Sobre.resources
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.csproj.GenerateResource.Cache
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\RdlCompile.cache
+C:\Users\Edvaldo\Desktop\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\RdlCompile.compiled
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.exe.config
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.exe
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.pdb
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.exe
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\bin\Debug\AlbertinaFilhos.pdb
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.AlterarPreco.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadCliente.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadEncomenda.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadFuncionario.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadInfoEncomenda.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadProduto.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadStock.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadUtilizador.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.CadVenda.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarCliente.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarEncomenda.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarFuncionario.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarProduto.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarUtilizador.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.ConsultarVenda.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Facturacao.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.FacturaEncomenda.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Form1.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Iniciar.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Login.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Properties.Resources.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioCliente.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioEncomenda.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioFuncionario.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioProduto.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioUsuario.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.RelatorioVenda.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.Sobre.resources
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\AlbertinaFilhos.csproj.GenerateResource.Cache
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\RdlCompile.cache
+C:\Users\Edvaldo\Desktop\Desorganizado\AlbertinaFilhos\AlbertinaFilhos\obj\Debug\RdlCompile.compiled
